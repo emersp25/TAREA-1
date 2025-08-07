@@ -1,9 +1,8 @@
-/* Estilos generales */
 body {
   margin: 0;
   padding: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background: linear-gradient(135deg, #2c0586, #08095e);
+  background: linear-gradient(135deg, #38af20, #08095e);
   height: 100vh;
   display: flex;
   align-items: center;
